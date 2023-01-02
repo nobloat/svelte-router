@@ -11,3 +11,7 @@ A minimalistic svelte router commponent
 - No dependencies
 - Less than 50 lines of Svelte code
 - Everything is contained in one small copayble [file](Router.svelte) (no npm required)
+
+## Credits
+
+This is basically a more minimal version of [ItalyPaleAle/svelte-spa-router](https://github.com/ItalyPaleAle/svelte-spa-router), which I used so far.
