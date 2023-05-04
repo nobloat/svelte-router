@@ -10,7 +10,7 @@ A minimalistic svelte router commponent
 - Passing one parameter per route via `#/someroute/:id`
 - No dependencies
 - Less than 50 lines of Svelte code
-- Everything is contained in one small copayble [file](Router.svelte) (no npm required)
+- Everything is contained in one small copyable [file](Router.svelte) (no npm required)
 
 ## Credits
 
