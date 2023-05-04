@@ -1,5 +1,5 @@
 # svelte-router
-A minimalistic svelte router commponent
+A minimalistic svelte router component
 
 # Usage
 - Just copy/paste the [Router.svelte](Router.svelte)
